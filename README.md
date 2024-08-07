@@ -1,42 +1,35 @@
+# **[IP info]**
 
----------------------------------------------------------------------------------------------------------------------------------------
-**[IP]**
----------------------------------------------------------------------------------------------------------------------------------------
+## **ABOUT**
 
-A tool that pulls IP information accurately, detailed and error-free
+### A tool that pulls IP information accurately, detailed and error-free
 
----------------------------------------------------------------------------------------------------------------------------------------
-instagram: 0xi0m / telegram: @Verratti5 / My channel: @bv_rd
+#### [Instagram](https://instagram.com/0xi0m) **|** [Telegram](https://t.me/Verratti3) **|** [My channel](https://t.me/:llllIllIIl)
 
+#### [Kuro](https://t.me/doomed_being) **|** [Kuro's channel](https://t.me/desperado_pasta)
 
-                          ()()                   ____ 
-                          (..)                  /|o  |
-                          /\/\  Mr <> Verratti /o|  o|          
-                         c\db/o.............../o_|_o_|
+## HOW TO RUN
 
-                          __| |__________________| |__ 
-                         (__| |__________________| |__)
-                            | |  Mr <> Verratti  | |   
-                          __| |__________________| |__ 
-                         (__|_|__________________|_|__)
----------------------------------------------------------------------------------------------------------------------------------------
+### **FOR WINDOWS**
 
-usage :
+1. [install python](https://www.python.org/downloads/)
+2. run `cmd` or `PowerShell`
+3. clone the repo: `git clone https://github.com/Verratti5/pyIP.git`
+4. change the directory: `cd pyIP`
+5. run `pip install -r requirements.txt`
+6. run `python main.py`
 
-**INSTALL WINDOWS**
+---
 
-1. install python (You must download any copy of Python you want to run the machine)
-2. run cmd 
-3. python3 main.py (or) python main.py 
+### **FOR LINUX**
 
----------------------------------------------------------------------------------------------------------------------------------------
+1. install python: `apt-get install python3 git -y`
+2. Open a terminal of your choice
+3. clone the repo: `git clone https://github.com/Verratti5/pyIP.git`
+4. change the directory: `cd pyIP`
+5. install requirements: `pip install -r requirements.txt`
+6. run the script: `python main.py`
 
-**INSTALL LINUX**
+---
 
-1. apt-get install python3
-2. apt-get install git
-3. git clone https://github.com/Verratti5/pyIP.git
-4. python3 main.py (or) python main.py 
-
----------------------------------------------------------------------------------------------------------------------------------------
-![image](https://www11.0zz0.com/2024/06/02/13/560003503.png)
+## ![image](https://github.com/doomed-neko/pyIP/blob/main/screenshot.png)
