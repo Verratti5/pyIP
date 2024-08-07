@@ -32,4 +32,4 @@
 
 ---
 
-## ![image](https://github.com/doomed-neko/pyIP/blob/main/screenshot.png)
+## ![image](https://github.com/verratti5/pyIP/blob/main/screenshot.png)
